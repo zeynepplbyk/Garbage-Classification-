@@ -11,9 +11,6 @@ ve kayıp fonksiyonlarının etkileri incelenmiştir.
 ---
 
 
-## Proje Ekibi
-* **Zeynep Palabıyık** - 220202016
-* **Sena Köseoğlu** - 220202042
 
 ## Veri Seti ve Ön İşleme
 Projede literatürdeki **"Trashbox"** ve **"Garbage Dataset"** veri setleri birleştirilerek **merged_dataset2** oluşturulmuştur.
